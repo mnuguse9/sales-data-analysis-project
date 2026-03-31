@@ -1,0 +1,501 @@
+OrderID,OrderDate,Customer,City,Category,Product,Quantity, Price , Revenue , Profit ,Channel,Month
+1001,4/16/2024,James Brown,Dallas,Electronics,Laptop,1, $293.00 , $293.00 , $135.15 ,Online, April 
+1002,2/23/2024,James Brown,Atlanta,Home,Toaster,5, $137.00 , $685.00 , $282.23 ,In-store, February 
+1003,2/23/2024,David Kim,Dallas,Electronics,Keyboard,3, $67.00 , $201.00 , $48.51 ,In-store, February 
+1004,2/19/2024,Liam Johnson,Charlotte,Clothing,Jeans,2, $405.00 , $810.00 , $302.27 ,In-store, February 
+1005,4/27/2024,Noah Martinez,Charlotte,Electronics,Monitor,2, $216.00 , $432.00 , $210.41 ,Online, April 
+1006,2/3/2024,Olivia Davis,Los Angeles,Home,Blender,2, $261.00 , $522.00 , $163.77 ,In-store, February 
+1007,2/25/2024,Ava Anderson,Raleigh,Electronics,Keyboard,5, $468.00 ," $2,340.00 "," $1,013.63 ",Online, February 
+1008,6/15/2024,Liam Johnson,New York,Clothing,Jacket,4, $282.00 ," $1,128.00 ", $266.65 ,Online, June 
+1009,4/27/2024,Liam Johnson,Chicago,Home,Vacuum,4, $94.00 , $376.00 , $179.27 ,Online, April 
+1010,6/7/2024,Olivia Davis,Raleigh,Clothing,T-Shirt,3, $23.00 , $69.00 , $28.09 ,In-store, June 
+1011,2/18/2024,Liam Johnson,New York,Clothing,Sneakers,5, $371.00 ," $1,855.00 ", $587.03 ,In-store, February 
+1012,5/1/2024,Maria Garcia,Charlotte,Clothing,Jeans,3, $330.00 , $990.00 , $220.27 ,Online, May 
+1013,1/18/2024,Olivia Davis,Chicago,Clothing,Sneakers,2, $226.00 , $452.00 , $101.97 ,Online, January 
+1014,2/7/2024,Ava Anderson,Los Angeles,Clothing,Sneakers,5, $422.00 ," $2,110.00 ", $542.20 ,In-store, February 
+1015,2/10/2024,Sarah Lee,Charlotte,Home,Vacuum,1, $46.00 , $46.00 , $10.44 ,Online, February 
+1016,5/4/2024,Noah Martinez,New York,Home,Toaster,1, $236.00 , $236.00 , $61.10 ,Online, May 
+1017,6/20/2024,Maria Garcia,Los Angeles,Home,Toaster,2, $67.00 , $134.00 , $35.88 ,In-store, June 
+1018,5/16/2024,Sarah Lee,Miami,Home,Vacuum,2, $273.00 , $546.00 , $134.49 ,Online, May 
+1019,6/8/2024,Emma Wilson,Chicago,Home,Vacuum,4, $273.00 ," $1,092.00 ", $292.63 ,In-store, June 
+1020,2/17/2024,Sarah Lee,New York,Electronics,Laptop,4, $251.00 ," $1,004.00 ", $474.87 ,In-store, February 
+1021,2/11/2024,Liam Johnson,Charlotte,Home,Toaster,3, $394.00 ," $1,182.00 ", $489.70 ,In-store, February 
+1022,6/28/2024,John Smith,Raleigh,Home,Blender,2, $166.00 , $332.00 , $165.25 ,In-store, June 
+1023,5/13/2024,Noah Martinez,Los Angeles,Electronics,Laptop,3, $146.00 , $438.00 , $118.83 ,Online, May 
+1024,1/13/2024,Sarah Lee,Charlotte,Electronics,Keyboard,3, $445.00 ," $1,335.00 ", $500.42 ,Online, January 
+1025,5/26/2024,Ava Anderson,New York,Home,Blender,3, $297.00 , $891.00 , $189.59 ,Online, May 
+1026,6/10/2024,Ava Anderson,New York,Home,Blender,1, $321.00 , $321.00 , $67.18 ,In-store, June 
+1027,3/30/2024,Sarah Lee,Chicago,Electronics,Laptop,5, $241.00 ," $1,205.00 ", $597.88 ,In-store, March 
+1028,4/19/2024,James Brown,Raleigh,Home,Lamp,5, $446.00 ," $2,230.00 ", $585.22 ,Online, April 
+1029,5/21/2024,Sarah Lee,Dallas,Clothing,Sneakers,5, $231.00 ," $1,155.00 ", $278.86 ,In-store, May 
+1030,2/21/2024,John Smith,Chicago,Clothing,Jacket,4, $258.00 ," $1,032.00 ", $387.09 ,In-store, February 
+1031,2/11/2024,Sarah Lee,Los Angeles,Clothing,Jeans,1, $278.00 , $278.00 , $62.73 ,In-store, February 
+1032,1/1/2024,John Smith,Chicago,Home,Lamp,1, $403.00 , $403.00 , $113.36 ,Online, January 
+1033,2/11/2024,Noah Martinez,Miami,Home,Lamp,3, $448.00 ," $1,344.00 ", $332.54 ,In-store, February 
+1034,2/13/2024,Olivia Davis,Miami,Home,Lamp,1, $50.00 , $50.00 , $21.61 ,In-store, February 
+1035,3/22/2024,Ava Anderson,Dallas,Clothing,Sneakers,1, $457.00 , $457.00 , $166.20 ,In-store, March 
+1036,6/6/2024,Ava Anderson,New York,Electronics,Mouse,2, $303.00 , $606.00 , $141.86 ,Online, June 
+1037,4/3/2024,Ava Anderson,Raleigh,Electronics,Keyboard,1, $264.00 , $264.00 , $73.87 ,Online, April 
+1038,1/2/2024,Maria Garcia,Los Angeles,Clothing,Jacket,5, $216.00 ," $1,080.00 ", $344.43 ,In-store, January 
+1039,4/30/2024,Emma Wilson,Raleigh,Clothing,Jacket,4, $350.00 ," $1,400.00 ", $363.50 ,Online, April 
+1040,3/28/2024,Noah Martinez,Dallas,Electronics,Mouse,1, $394.00 , $394.00 , $79.85 ,Online, March 
+1041,6/27/2024,Sarah Lee,Charlotte,Clothing,Jeans,1, $171.00 , $171.00 , $79.92 ,In-store, June 
+1042,5/17/2024,Liam Johnson,Raleigh,Electronics,Headphones,5, $354.00 ," $1,770.00 ", $396.16 ,In-store, May 
+1043,2/11/2024,John Smith,Raleigh,Electronics,Keyboard,5, $31.00 , $155.00 , $38.72 ,Online, February 
+1044,5/30/2024,Noah Martinez,Miami,Electronics,Headphones,3, $110.00 , $330.00 , $113.58 ,In-store, May 
+1045,2/9/2024,Noah Martinez,Charlotte,Clothing,Sneakers,2, $247.00 , $494.00 , $131.41 ,Online, February 
+1046,2/21/2024,Ava Anderson,Atlanta,Clothing,Jeans,2, $145.00 , $290.00 , $94.93 ,In-store, February 
+1047,5/25/2024,Sarah Lee,Raleigh,Clothing,Jacket,4, $401.00 ," $1,604.00 ", $513.04 ,Online, May 
+1048,5/3/2024,Liam Johnson,Los Angeles,Electronics,Headphones,1, $195.00 , $195.00 , $68.89 ,In-store, May 
+1049,2/3/2024,David Kim,Los Angeles,Home,Blender,1, $384.00 , $384.00 , $157.50 ,In-store, February 
+1050,6/5/2024,Ava Anderson,New York,Electronics,Mouse,5, $332.00 ," $1,660.00 ", $359.52 ,Online, June 
+1051,4/27/2024,Emma Wilson,Atlanta,Clothing,T-Shirt,4, $306.00 ," $1,224.00 ", $345.39 ,In-store, April 
+1052,5/27/2024,Noah Martinez,Miami,Electronics,Keyboard,5, $194.00 , $970.00 , $269.23 ,In-store, May 
+1053,4/21/2024,James Brown,Los Angeles,Electronics,Headphones,2, $391.00 , $782.00 , $197.04 ,Online, April 
+1054,5/29/2024,Sarah Lee,New York,Home,Lamp,5, $79.00 , $395.00 , $140.74 ,Online, May 
+1055,1/14/2024,Maria Garcia,Charlotte,Clothing,Jeans,2, $309.00 , $618.00 , $194.97 ,In-store, January 
+1056,2/17/2024,James Brown,Chicago,Electronics,Keyboard,3, $372.00 ," $1,116.00 ", $530.27 ,In-store, February 
+1057,3/20/2024,Olivia Davis,Raleigh,Electronics,Headphones,1, $88.00 , $88.00 , $42.61 ,In-store, March 
+1058,6/28/2024,John Smith,New York,Clothing,Sneakers,1, $406.00 , $406.00 , $187.37 ,In-store, June 
+1059,6/11/2024,David Kim,Los Angeles,Electronics,Keyboard,5, $365.00 ," $1,825.00 ", $716.58 ,In-store, June 
+1060,5/18/2024,Sarah Lee,Miami,Clothing,Jacket,1, $429.00 , $429.00 , $168.91 ,In-store, May 
+1061,1/4/2024,John Smith,Raleigh,Home,Toaster,5, $101.00 , $505.00 , $204.50 ,In-store, January 
+1062,3/31/2024,Noah Martinez,Los Angeles,Electronics,Headphones,3, $84.00 , $252.00 , $74.06 ,Online, March 
+1063,5/4/2024,James Brown,Atlanta,Home,Lamp,4, $177.00 , $708.00 , $342.25 ,In-store, May 
+1064,5/29/2024,David Kim,Chicago,Home,Toaster,5, $412.00 ," $2,060.00 ", $868.73 ,In-store, May 
+1065,6/26/2024,David Kim,Miami,Electronics,Headphones,2, $227.00 , $454.00 , $163.45 ,In-store, June 
+1066,2/20/2024,Ava Anderson,Los Angeles,Home,Vacuum,2, $322.00 , $644.00 , $175.53 ,Online, February 
+1067,5/14/2024,Ava Anderson,Raleigh,Home,Vacuum,1, $406.00 , $406.00 , $145.01 ,Online, May 
+1068,3/23/2024,Liam Johnson,Atlanta,Clothing,Jeans,2, $56.00 , $112.00 , $43.82 ,In-store, March 
+1069,1/6/2024,Sarah Lee,Miami,Clothing,Jeans,1, $438.00 , $438.00 , $215.41 ,Online, January 
+1070,4/29/2024,John Smith,New York,Electronics,Keyboard,2, $298.00 , $596.00 , $293.98 ,Online, April 
+1071,4/16/2024,James Brown,New York,Home,Lamp,5, $147.00 , $735.00 , $349.29 ,In-store, April 
+1072,6/23/2024,David Kim,Chicago,Home,Toaster,4, $108.00 , $432.00 , $112.08 ,Online, June 
+1073,1/26/2024,Liam Johnson,New York,Clothing,Jeans,1, $420.00 , $420.00 , $203.13 ,In-store, January 
+1074,2/19/2024,James Brown,Miami,Home,Toaster,4, $294.00 ," $1,176.00 ", $508.25 ,In-store, February 
+1075,3/6/2024,David Kim,Dallas,Electronics,Mouse,1, $317.00 , $317.00 , $90.71 ,In-store, March 
+1076,1/18/2024,Emma Wilson,Raleigh,Clothing,T-Shirt,2, $238.00 , $476.00 , $126.08 ,In-store, January 
+1077,4/6/2024,Noah Martinez,Chicago,Home,Blender,3, $442.00 ," $1,326.00 ", $518.35 ,Online, April 
+1078,3/30/2024,Sarah Lee,New York,Electronics,Keyboard,2, $331.00 , $662.00 , $285.87 ,Online, March 
+1079,1/9/2024,James Brown,Raleigh,Home,Toaster,2, $48.00 , $96.00 , $35.79 ,In-store, January 
+1080,1/25/2024,John Smith,Atlanta,Electronics,Keyboard,4, $298.00 ," $1,192.00 ", $243.14 ,Online, January 
+1081,1/12/2024,Ava Anderson,Los Angeles,Clothing,T-Shirt,5, $387.00 ," $1,935.00 ", $911.32 ,Online, January 
+1082,2/27/2024,Sarah Lee,Los Angeles,Electronics,Keyboard,4, $135.00 , $540.00 , $123.53 ,Online, February 
+1083,1/17/2024,David Kim,Atlanta,Home,Vacuum,4, $216.00 , $864.00 , $250.22 ,In-store, January 
+1084,3/20/2024,Noah Martinez,Dallas,Electronics,Keyboard,3, $96.00 , $288.00 , $96.28 ,Online, March 
+1085,6/26/2024,Maria Garcia,Miami,Electronics,Headphones,5, $69.00 , $345.00 , $99.39 ,Online, June 
+1086,5/20/2024,Maria Garcia,Chicago,Clothing,Jeans,5, $330.00 ," $1,650.00 ", $444.76 ,Online, May 
+1087,6/15/2024,Olivia Davis,Miami,Clothing,Sneakers,3, $303.00 , $909.00 , $368.10 ,Online, June 
+1088,3/23/2024,Emma Wilson,New York,Electronics,Laptop,1, $406.00 , $406.00 , $156.58 ,Online, March 
+1089,6/10/2024,Emma Wilson,Miami,Home,Blender,1, $24.00 , $24.00 , $9.97 ,Online, June 
+1090,6/12/2024,David Kim,Dallas,Electronics,Mouse,5, $120.00 , $600.00 , $191.44 ,In-store, June 
+1091,6/21/2024,Liam Johnson,Los Angeles,Home,Vacuum,1, $472.00 , $472.00 , $209.64 ,In-store, June 
+1092,3/25/2024,Ava Anderson,Charlotte,Electronics,Mouse,1, $101.00 , $101.00 , $30.14 ,Online, March 
+1093,1/19/2024,David Kim,Dallas,Electronics,Keyboard,3, $249.00 , $747.00 , $365.13 ,Online, January 
+1094,6/8/2024,John Smith,New York,Electronics,Headphones,4, $281.00 ," $1,124.00 ", $291.15 ,In-store, June 
+1095,4/25/2024,Emma Wilson,New York,Home,Lamp,3, $262.00 , $786.00 , $162.56 ,Online, April 
+1096,4/19/2024,Olivia Davis,Los Angeles,Clothing,T-Shirt,4, $475.00 ," $1,900.00 ", $753.32 ,In-store, April 
+1097,3/23/2024,James Brown,New York,Electronics,Laptop,1, $364.00 , $364.00 , $93.19 ,Online, March 
+1098,2/22/2024,John Smith,Los Angeles,Electronics,Keyboard,2, $401.00 , $802.00 , $296.81 ,In-store, February 
+1099,1/17/2024,David Kim,Dallas,Clothing,Jacket,3, $414.00 ," $1,242.00 ", $571.91 ,Online, January 
+1100,5/11/2024,David Kim,Raleigh,Electronics,Headphones,1, $204.00 , $204.00 , $98.94 ,Online, May 
+1101,1/26/2024,Liam Johnson,Charlotte,Electronics,Mouse,1, $298.00 , $298.00 , $114.81 ,In-store, January 
+1102,3/13/2024,Ava Anderson,New York,Electronics,Laptop,3, $190.00 , $570.00 , $257.65 ,Online, March 
+1103,5/29/2024,Ava Anderson,Atlanta,Electronics,Mouse,3, $28.00 , $84.00 , $35.58 ,Online, May 
+1104,3/13/2024,Emma Wilson,Charlotte,Home,Lamp,2, $395.00 , $790.00 , $255.30 ,Online, March 
+1105,5/23/2024,Emma Wilson,Los Angeles,Clothing,T-Shirt,2, $113.00 , $226.00 , $56.39 ,Online, May 
+1106,4/2/2024,Ava Anderson,Charlotte,Electronics,Monitor,4, $268.00 ," $1,072.00 ", $440.90 ,In-store, April 
+1107,5/24/2024,Noah Martinez,Dallas,Home,Vacuum,1, $225.00 , $225.00 , $87.88 ,Online, May 
+1108,5/16/2024,Ava Anderson,Raleigh,Home,Vacuum,2, $403.00 , $806.00 , $325.28 ,Online, May 
+1109,4/21/2024,Noah Martinez,Chicago,Clothing,Sneakers,3, $253.00 , $759.00 , $248.20 ,Online, April 
+1110,4/16/2024,Ava Anderson,Raleigh,Electronics,Laptop,5, $301.00 ," $1,505.00 ", $355.39 ,In-store, April 
+1111,2/13/2024,Sarah Lee,Raleigh,Clothing,Sneakers,5, $30.00 , $150.00 , $38.23 ,Online, February 
+1112,6/2/2024,James Brown,Raleigh,Electronics,Keyboard,4, $286.00 ," $1,144.00 ", $345.16 ,Online, June 
+1113,6/11/2024,Emma Wilson,Miami,Home,Toaster,4, $218.00 , $872.00 , $338.03 ,In-store, June 
+1114,5/20/2024,John Smith,Charlotte,Electronics,Laptop,4, $30.00 , $120.00 , $27.06 ,In-store, May 
+1115,5/2/2024,John Smith,Miami,Electronics,Monitor,5, $419.00 ," $2,095.00 ", $540.41 ,Online, May 
+1116,1/25/2024,Emma Wilson,Los Angeles,Clothing,T-Shirt,3, $21.00 , $63.00 , $18.15 ,In-store, January 
+1117,6/8/2024,Sarah Lee,Dallas,Electronics,Mouse,4, $144.00 , $576.00 , $134.22 ,Online, June 
+1118,3/22/2024,Ava Anderson,Atlanta,Electronics,Laptop,3, $473.00 ," $1,419.00 ", $303.38 ,Online, March 
+1119,4/6/2024,Ava Anderson,Atlanta,Clothing,Sneakers,5, $152.00 , $760.00 , $174.68 ,In-store, April 
+1120,5/1/2024,John Smith,Raleigh,Home,Vacuum,4, $367.00 ," $1,468.00 ", $560.52 ,In-store, May 
+1121,6/2/2024,Ava Anderson,Los Angeles,Home,Toaster,3, $274.00 , $822.00 , $279.05 ,In-store, June 
+1122,4/30/2024,Maria Garcia,Los Angeles,Clothing,T-Shirt,2, $114.00 , $228.00 , $110.76 ,Online, April 
+1123,1/23/2024,James Brown,Charlotte,Clothing,T-Shirt,3, $183.00 , $549.00 , $237.41 ,In-store, January 
+1124,2/5/2024,Olivia Davis,Chicago,Home,Toaster,5, $272.00 ," $1,360.00 ", $654.67 ,Online, February 
+1125,1/5/2024,Sarah Lee,Dallas,Electronics,Headphones,1, $195.00 , $195.00 , $57.32 ,In-store, January 
+1126,6/21/2024,Olivia Davis,Raleigh,Electronics,Keyboard,2, $156.00 , $312.00 , $113.33 ,In-store, June 
+1127,2/5/2024,David Kim,Dallas,Home,Blender,5, $404.00 ," $2,020.00 ", $517.90 ,Online, February 
+1128,4/26/2024,David Kim,Atlanta,Electronics,Laptop,4, $220.00 , $880.00 , $408.73 ,In-store, April 
+1129,2/3/2024,Olivia Davis,Dallas,Electronics,Keyboard,1, $294.00 , $294.00 , $98.99 ,Online, February 
+1130,2/13/2024,Ava Anderson,Miami,Electronics,Mouse,4, $153.00 , $612.00 , $299.51 ,In-store, February 
+1131,4/28/2024,Maria Garcia,New York,Home,Lamp,2, $298.00 , $596.00 , $276.02 ,In-store, April 
+1132,4/6/2024,James Brown,Miami,Clothing,Jeans,5, $135.00 , $675.00 , $250.07 ,Online, April 
+1133,5/14/2024,Emma Wilson,Miami,Home,Lamp,1, $77.00 , $77.00 , $30.11 ,In-store, May 
+1134,3/26/2024,Liam Johnson,Miami,Clothing,Jeans,2, $273.00 , $546.00 , $254.13 ,In-store, March 
+1135,2/13/2024,Olivia Davis,Los Angeles,Electronics,Monitor,2, $301.00 , $602.00 , $183.79 ,Online, February 
+1136,3/22/2024,Sarah Lee,Charlotte,Clothing,Sneakers,2, $448.00 , $896.00 , $270.42 ,Online, March 
+1137,5/13/2024,Emma Wilson,Dallas,Home,Vacuum,4, $259.00 ," $1,036.00 ", $504.34 ,In-store, May 
+1138,1/24/2024,Maria Garcia,Raleigh,Electronics,Headphones,2, $80.00 , $160.00 , $76.79 ,In-store, January 
+1139,3/17/2024,Ava Anderson,Atlanta,Electronics,Monitor,3, $128.00 , $384.00 , $86.80 ,Online, March 
+1140,5/15/2024,Olivia Davis,New York,Home,Vacuum,5, $242.00 ," $1,210.00 ", $372.78 ,In-store, May 
+1141,4/20/2024,Maria Garcia,Atlanta,Electronics,Headphones,1, $247.00 , $247.00 , $96.02 ,Online, April 
+1142,3/21/2024,Maria Garcia,Dallas,Electronics,Laptop,1, $498.00 , $498.00 , $146.01 ,Online, March 
+1143,4/28/2024,John Smith,Miami,Home,Lamp,4, $149.00 , $596.00 , $297.70 ,In-store, April 
+1144,5/16/2024,Noah Martinez,Dallas,Electronics,Monitor,4, $44.00 , $176.00 , $73.42 ,In-store, May 
+1145,4/20/2024,Noah Martinez,Atlanta,Home,Toaster,5, $231.00 ," $1,155.00 ", $350.55 ,In-store, April 
+1146,1/21/2024,Ava Anderson,Dallas,Electronics,Monitor,1, $199.00 , $199.00 , $61.87 ,Online, January 
+1147,2/13/2024,Sarah Lee,Los Angeles,Electronics,Mouse,4, $73.00 , $292.00 , $91.33 ,In-store, February 
+1148,1/26/2024,Sarah Lee,Raleigh,Clothing,T-Shirt,3, $294.00 , $882.00 , $390.81 ,Online, January 
+1149,1/29/2024,James Brown,Los Angeles,Clothing,Jacket,3, $36.00 , $108.00 , $29.06 ,In-store, January 
+1150,6/24/2024,James Brown,Charlotte,Home,Lamp,4, $432.00 ," $1,728.00 ", $774.92 ,In-store, June 
+1151,4/20/2024,Liam Johnson,Los Angeles,Electronics,Headphones,5, $207.00 ," $1,035.00 ", $356.77 ,Online, April 
+1152,3/5/2024,Emma Wilson,Dallas,Clothing,Sneakers,1, $453.00 , $453.00 , $219.39 ,In-store, March 
+1153,3/18/2024,John Smith,Dallas,Home,Lamp,4, $337.00 ," $1,348.00 ", $271.45 ,In-store, March 
+1154,5/2/2024,Emma Wilson,Charlotte,Electronics,Monitor,4, $196.00 , $784.00 , $357.24 ,In-store, May 
+1155,3/24/2024,Noah Martinez,Raleigh,Electronics,Laptop,1, $135.00 , $135.00 , $39.12 ,In-store, March 
+1156,3/7/2024,Maria Garcia,Chicago,Clothing,Jeans,1, $59.00 , $59.00 , $21.87 ,Online, March 
+1157,1/11/2024,Noah Martinez,Dallas,Electronics,Laptop,2, $397.00 , $794.00 , $345.18 ,Online, January 
+1158,1/11/2024,John Smith,Atlanta,Clothing,Jacket,3, $155.00 , $465.00 , $200.11 ,In-store, January 
+1159,5/29/2024,Liam Johnson,Atlanta,Clothing,Sneakers,2, $142.00 , $284.00 , $140.61 ,Online, May 
+1160,4/7/2024,Noah Martinez,Atlanta,Electronics,Laptop,3, $323.00 , $969.00 , $205.74 ,Online, April 
+1161,2/15/2024,Liam Johnson,Chicago,Clothing,Jeans,2, $93.00 , $186.00 , $92.99 ,Online, February 
+1162,4/23/2024,Liam Johnson,Dallas,Clothing,T-Shirt,1, $325.00 , $325.00 , $79.84 ,In-store, April 
+1163,2/6/2024,Emma Wilson,Atlanta,Electronics,Keyboard,5, $465.00 ," $2,325.00 ", $495.29 ,In-store, February 
+1164,6/26/2024,Sarah Lee,New York,Clothing,T-Shirt,4, $478.00 ," $1,912.00 ", $682.28 ,Online, June 
+1165,3/24/2024,Emma Wilson,Dallas,Home,Lamp,5, $375.00 ," $1,875.00 ", $891.13 ,In-store, March 
+1166,5/30/2024,Noah Martinez,Chicago,Clothing,Jeans,3, $471.00 ," $1,413.00 ", $459.32 ,Online, May 
+1167,1/17/2024,Liam Johnson,Raleigh,Clothing,Jacket,3, $28.00 , $84.00 , $25.26 ,In-store, January 
+1168,2/23/2024,Ava Anderson,Raleigh,Electronics,Monitor,5, $81.00 , $405.00 , $185.65 ,Online, February 
+1169,4/28/2024,John Smith,Los Angeles,Clothing,Sneakers,2, $124.00 , $248.00 , $98.94 ,In-store, April 
+1170,2/10/2024,Olivia Davis,Raleigh,Clothing,Jacket,1, $414.00 , $414.00 , $138.71 ,In-store, February 
+1171,6/28/2024,John Smith,Atlanta,Clothing,T-Shirt,5, $417.00 ," $2,085.00 ", $743.20 ,Online, June 
+1172,4/14/2024,Olivia Davis,Miami,Clothing,Jeans,5, $131.00 , $655.00 , $284.62 ,Online, April 
+1173,1/30/2024,Liam Johnson,Charlotte,Home,Lamp,2, $168.00 , $336.00 , $125.15 ,In-store, January 
+1174,3/24/2024,Olivia Davis,Dallas,Home,Toaster,5, $370.00 ," $1,850.00 ", $901.04 ,Online, March 
+1175,6/4/2024,James Brown,Raleigh,Home,Lamp,1, $58.00 , $58.00 , $12.18 ,In-store, June 
+1176,6/10/2024,Liam Johnson,Los Angeles,Electronics,Headphones,3, $264.00 , $792.00 , $287.80 ,In-store, June 
+1177,1/10/2024,John Smith,Chicago,Electronics,Monitor,2, $463.00 , $926.00 , $185.20 ,In-store, January 
+1178,1/8/2024,Maria Garcia,Dallas,Clothing,Sneakers,5, $56.00 , $280.00 , $97.59 ,In-store, January 
+1179,6/8/2024,David Kim,Charlotte,Clothing,T-Shirt,5, $462.00 ," $2,310.00 ", $676.35 ,In-store, June 
+1180,3/11/2024,David Kim,Charlotte,Electronics,Mouse,2, $215.00 , $430.00 , $175.31 ,Online, March 
+1181,6/13/2024,Maria Garcia,Charlotte,Home,Lamp,2, $267.00 , $534.00 , $179.61 ,Online, June 
+1182,2/18/2024,James Brown,Dallas,Home,Vacuum,2, $58.00 , $116.00 , $50.90 ,In-store, February 
+1183,3/21/2024,James Brown,Raleigh,Electronics,Headphones,1, $34.00 , $34.00 , $8.88 ,Online, March 
+1184,5/30/2024,Liam Johnson,Raleigh,Home,Toaster,3, $54.00 , $162.00 , $53.83 ,Online, May 
+1185,1/23/2024,John Smith,Dallas,Home,Blender,2, $408.00 , $816.00 , $298.04 ,Online, January 
+1186,1/27/2024,Maria Garcia,Raleigh,Clothing,T-Shirt,2, $324.00 , $648.00 , $229.39 ,In-store, January 
+1187,1/30/2024,Olivia Davis,Los Angeles,Electronics,Headphones,4, $50.00 , $200.00 , $46.76 ,In-store, January 
+1188,3/10/2024,Noah Martinez,Los Angeles,Clothing,Jacket,4, $329.00 ," $1,316.00 ", $319.44 ,Online, March 
+1189,3/26/2024,Maria Garcia,Chicago,Clothing,Jacket,1, $109.00 , $109.00 , $48.79 ,In-store, March 
+1190,1/19/2024,John Smith,New York,Electronics,Keyboard,1, $78.00 , $78.00 , $24.50 ,Online, January 
+1191,4/22/2024,Emma Wilson,Charlotte,Home,Lamp,2, $351.00 , $702.00 , $339.96 ,In-store, April 
+1192,1/9/2024,John Smith,Dallas,Electronics,Laptop,3, $439.00 ," $1,317.00 ", $518.32 ,Online, January 
+1193,6/27/2024,Liam Johnson,Miami,Electronics,Laptop,1, $113.00 , $113.00 , $46.69 ,Online, June 
+1194,1/25/2024,Ava Anderson,Chicago,Home,Vacuum,4, $230.00 , $920.00 , $211.14 ,Online, January 
+1195,3/17/2024,Maria Garcia,Raleigh,Clothing,Jacket,1, $288.00 , $288.00 , $74.92 ,In-store, March 
+1196,3/7/2024,Maria Garcia,New York,Home,Vacuum,1, $103.00 , $103.00 , $33.85 ,In-store, March 
+1197,2/20/2024,Liam Johnson,Charlotte,Clothing,Jeans,1, $395.00 , $395.00 , $176.10 ,In-store, February 
+1198,5/25/2024,Noah Martinez,Atlanta,Electronics,Headphones,4, $297.00 ," $1,188.00 ", $398.53 ,Online, May 
+1199,5/6/2024,Emma Wilson,Raleigh,Electronics,Monitor,2, $39.00 , $78.00 , $16.83 ,In-store, May 
+1200,5/15/2024,James Brown,Miami,Home,Toaster,1, $367.00 , $367.00 , $143.73 ,In-store, May 
+1201,2/21/2024,David Kim,Dallas,Electronics,Headphones,2, $26.00 , $52.00 , $25.64 ,In-store, February 
+1202,4/27/2024,Olivia Davis,New York,Electronics,Mouse,1, $242.00 , $242.00 , $76.06 ,In-store, April 
+1203,3/3/2024,James Brown,Miami,Clothing,T-Shirt,2, $276.00 , $552.00 , $172.69 ,In-store, March 
+1204,1/23/2024,Sarah Lee,Los Angeles,Electronics,Laptop,3, $159.00 , $477.00 , $199.52 ,In-store, January 
+1205,2/19/2024,Ava Anderson,Miami,Electronics,Mouse,4, $401.00 ," $1,604.00 ", $551.70 ,Online, February 
+1206,1/17/2024,Emma Wilson,Charlotte,Clothing,Sneakers,2, $408.00 , $816.00 , $184.87 ,In-store, January 
+1207,5/28/2024,Ava Anderson,Chicago,Clothing,Jeans,2, $427.00 , $854.00 , $345.52 ,Online, May 
+1208,4/22/2024,James Brown,Charlotte,Home,Lamp,2, $70.00 , $140.00 , $35.31 ,In-store, April 
+1209,6/29/2024,Emma Wilson,Miami,Electronics,Laptop,5, $484.00 ," $2,420.00 ", $663.48 ,In-store, June 
+1210,4/29/2024,Sarah Lee,Raleigh,Electronics,Monitor,4, $287.00 ," $1,148.00 ", $486.82 ,Online, April 
+1211,3/20/2024,David Kim,Atlanta,Home,Blender,4, $129.00 , $516.00 , $252.43 ,Online, March 
+1212,6/7/2024,Maria Garcia,Charlotte,Home,Toaster,1, $496.00 , $496.00 , $173.80 ,Online, June 
+1213,1/23/2024,Olivia Davis,New York,Home,Lamp,5, $165.00 , $825.00 , $199.91 ,Online, January 
+1214,4/3/2024,Sarah Lee,Raleigh,Home,Blender,1, $150.00 , $150.00 , $51.25 ,Online, April 
+1215,1/14/2024,Noah Martinez,Miami,Electronics,Monitor,4, $25.00 , $100.00 , $21.81 ,Online, January 
+1216,6/22/2024,Olivia Davis,Atlanta,Clothing,Sneakers,4, $448.00 ," $1,792.00 ", $637.02 ,Online, June 
+1217,2/20/2024,Liam Johnson,New York,Home,Toaster,5, $59.00 , $295.00 , $116.01 ,In-store, February 
+1218,4/18/2024,Noah Martinez,Dallas,Electronics,Headphones,1, $72.00 , $72.00 , $19.24 ,In-store, April 
+1219,4/21/2024,David Kim,Los Angeles,Home,Lamp,4, $98.00 , $392.00 , $143.56 ,Online, April 
+1220,3/19/2024,David Kim,New York,Clothing,Jeans,2, $30.00 , $60.00 , $15.61 ,In-store, March 
+1221,5/17/2024,John Smith,Chicago,Clothing,Jacket,2, $295.00 , $590.00 , $265.90 ,Online, May 
+1222,5/13/2024,Sarah Lee,Miami,Clothing,T-Shirt,3, $222.00 , $666.00 , $329.49 ,In-store, May 
+1223,5/6/2024,David Kim,Chicago,Electronics,Mouse,5, $177.00 , $885.00 , $410.23 ,In-store, May 
+1224,3/22/2024,Maria Garcia,Atlanta,Electronics,Monitor,4, $49.00 , $196.00 , $58.97 ,In-store, March 
+1225,1/4/2024,Sarah Lee,Raleigh,Electronics,Mouse,2, $222.00 , $444.00 , $212.66 ,Online, January 
+1226,3/27/2024,David Kim,Charlotte,Home,Vacuum,4, $353.00 ," $1,412.00 ", $596.67 ,In-store, March 
+1227,4/14/2024,Liam Johnson,Dallas,Electronics,Mouse,1, $215.00 , $215.00 , $49.09 ,Online, April 
+1228,4/8/2024,Liam Johnson,Dallas,Home,Toaster,2, $359.00 , $718.00 , $249.98 ,Online, April 
+1229,1/7/2024,John Smith,Los Angeles,Electronics,Mouse,3, $367.00 ," $1,101.00 ", $366.39 ,In-store, January 
+1230,5/11/2024,Liam Johnson,Los Angeles,Electronics,Headphones,4, $397.00 ," $1,588.00 ", $449.25 ,Online, May 
+1231,1/19/2024,Liam Johnson,Chicago,Electronics,Headphones,2, $338.00 , $676.00 , $209.34 ,Online, January 
+1232,4/27/2024,Ava Anderson,Dallas,Clothing,Sneakers,3, $119.00 , $357.00 , $149.52 ,Online, April 
+1233,6/11/2024,David Kim,New York,Home,Toaster,1, $321.00 , $321.00 , $97.23 ,Online, June 
+1234,5/3/2024,Noah Martinez,Dallas,Clothing,Sneakers,1, $50.00 , $50.00 , $19.80 ,In-store, May 
+1235,1/4/2024,David Kim,Los Angeles,Clothing,Jacket,4, $432.00 ," $1,728.00 ", $700.79 ,In-store, January 
+1236,1/10/2024,Olivia Davis,Dallas,Clothing,Jacket,2, $96.00 , $192.00 , $70.49 ,Online, January 
+1237,4/5/2024,Olivia Davis,New York,Home,Lamp,5, $397.00 ," $1,985.00 ", $505.25 ,Online, April 
+1238,4/29/2024,David Kim,Raleigh,Home,Toaster,2, $134.00 , $268.00 , $69.81 ,In-store, April 
+1239,4/10/2024,James Brown,Dallas,Clothing,Jacket,2, $119.00 , $238.00 , $85.32 ,In-store, April 
+1240,4/14/2024,Liam Johnson,Miami,Electronics,Headphones,3, $351.00 ," $1,053.00 ", $259.21 ,In-store, April 
+1241,3/11/2024,Maria Garcia,Dallas,Home,Blender,3, $135.00 , $405.00 , $103.26 ,In-store, March 
+1242,5/24/2024,Liam Johnson,Chicago,Home,Lamp,1, $400.00 , $400.00 , $166.44 ,Online, May 
+1243,5/9/2024,James Brown,Los Angeles,Electronics,Mouse,3, $89.00 , $267.00 , $117.42 ,Online, May 
+1244,2/3/2024,James Brown,Chicago,Electronics,Laptop,4, $466.00 ," $1,864.00 ", $576.94 ,Online, February 
+1245,2/20/2024,James Brown,Charlotte,Electronics,Headphones,2, $350.00 , $700.00 , $304.54 ,Online, February 
+1246,3/4/2024,Maria Garcia,Miami,Home,Blender,4, $47.00 , $188.00 , $76.18 ,Online, March 
+1247,5/25/2024,Noah Martinez,New York,Electronics,Headphones,1, $461.00 , $461.00 , $202.65 ,In-store, May 
+1248,6/29/2024,Noah Martinez,Atlanta,Clothing,T-Shirt,2, $158.00 , $316.00 , $81.53 ,Online, June 
+1249,3/1/2024,Olivia Davis,New York,Clothing,Jacket,4, $383.00 ," $1,532.00 ", $762.42 ,Online, March 
+1250,5/10/2024,Sarah Lee,Charlotte,Home,Lamp,2, $232.00 , $464.00 , $142.90 ,In-store, May 
+1251,2/29/2024,Emma Wilson,Los Angeles,Electronics,Mouse,3, $243.00 , $729.00 , $245.09 ,In-store, February 
+1252,2/5/2024,Sarah Lee,Atlanta,Clothing,Sneakers,5, $33.00 , $165.00 , $43.27 ,In-store, February 
+1253,6/5/2024,Emma Wilson,Atlanta,Electronics,Headphones,1, $474.00 , $474.00 , $144.32 ,Online, June 
+1254,5/9/2024,Ava Anderson,Miami,Home,Vacuum,4, $168.00 , $672.00 , $294.46 ,In-store, May 
+1255,2/2/2024,Emma Wilson,Dallas,Clothing,Jacket,3, $132.00 , $396.00 , $179.62 ,In-store, February 
+1256,6/26/2024,Sarah Lee,Atlanta,Home,Toaster,3, $404.00 ," $1,212.00 ", $554.89 ,In-store, June 
+1257,4/3/2024,Olivia Davis,Miami,Home,Toaster,1, $141.00 , $141.00 , $32.98 ,Online, April 
+1258,6/6/2024,Ava Anderson,Chicago,Electronics,Keyboard,3, $233.00 , $699.00 , $185.75 ,In-store, June 
+1259,6/28/2024,Sarah Lee,Los Angeles,Electronics,Laptop,2, $464.00 , $928.00 , $379.96 ,Online, June 
+1260,1/8/2024,Emma Wilson,Los Angeles,Electronics,Keyboard,5, $94.00 , $470.00 , $141.41 ,Online, January 
+1261,6/23/2024,Ava Anderson,Chicago,Home,Lamp,3, $110.00 , $330.00 , $112.11 ,Online, June 
+1262,2/26/2024,Emma Wilson,Atlanta,Home,Vacuum,1, $53.00 , $53.00 , $23.28 ,Online, February 
+1263,4/30/2024,David Kim,New York,Electronics,Headphones,3, $478.00 ," $1,434.00 ", $505.88 ,In-store, April 
+1264,5/14/2024,Sarah Lee,Dallas,Home,Vacuum,4, $210.00 , $840.00 , $194.73 ,In-store, May 
+1265,4/20/2024,Ava Anderson,Miami,Electronics,Mouse,1, $201.00 , $201.00 , $96.19 ,In-store, April 
+1266,1/17/2024,Ava Anderson,Los Angeles,Clothing,T-Shirt,3, $40.00 , $120.00 , $40.37 ,Online, January 
+1267,2/28/2024,Emma Wilson,Charlotte,Home,Toaster,5, $390.00 ," $1,950.00 ", $759.66 ,In-store, February 
+1268,6/21/2024,Noah Martinez,Dallas,Clothing,T-Shirt,2, $253.00 , $506.00 , $164.16 ,Online, June 
+1269,4/25/2024,Sarah Lee,Raleigh,Electronics,Laptop,3, $194.00 , $582.00 , $260.54 ,In-store, April 
+1270,3/8/2024,Liam Johnson,New York,Home,Vacuum,4, $128.00 , $512.00 , $155.12 ,Online, March 
+1271,4/29/2024,Olivia Davis,Dallas,Clothing,Jacket,1, $94.00 , $94.00 , $35.60 ,Online, April 
+1272,3/9/2024,David Kim,Raleigh,Home,Toaster,1, $236.00 , $236.00 , $67.56 ,Online, March 
+1273,1/28/2024,James Brown,Charlotte,Home,Lamp,5, $183.00 , $915.00 , $294.24 ,Online, January 
+1274,1/5/2024,James Brown,Miami,Electronics,Monitor,4, $399.00 ," $1,596.00 ", $584.84 ,Online, January 
+1275,1/18/2024,James Brown,Chicago,Clothing,Sneakers,5, $415.00 ," $2,075.00 ", $663.00 ,Online, January 
+1276,4/26/2024,James Brown,Dallas,Clothing,Jacket,2, $475.00 , $950.00 , $359.46 ,In-store, April 
+1277,2/13/2024,David Kim,Raleigh,Home,Blender,2, $117.00 , $234.00 , $97.91 ,Online, February 
+1278,5/10/2024,James Brown,Dallas,Electronics,Keyboard,4, $500.00 ," $2,000.00 ", $611.40 ,In-store, May 
+1279,4/5/2024,Sarah Lee,Los Angeles,Electronics,Headphones,1, $65.00 , $65.00 , $32.42 ,In-store, April 
+1280,2/2/2024,Sarah Lee,Raleigh,Electronics,Headphones,1, $220.00 , $220.00 , $82.66 ,In-store, February 
+1281,3/28/2024,James Brown,Raleigh,Clothing,Jeans,5, $463.00 ," $2,315.00 "," $1,011.20 ",In-store, March 
+1282,4/10/2024,Noah Martinez,Atlanta,Electronics,Monitor,5, $222.00 ," $1,110.00 ", $284.80 ,Online, April 
+1283,2/14/2024,David Kim,Charlotte,Electronics,Keyboard,3, $467.00 ," $1,401.00 ", $543.04 ,In-store, February 
+1284,3/3/2024,David Kim,New York,Home,Blender,3, $348.00 ," $1,044.00 ", $443.49 ,Online, March 
+1285,5/18/2024,John Smith,Miami,Home,Vacuum,3, $262.00 , $786.00 , $213.79 ,Online, May 
+1286,2/7/2024,David Kim,New York,Electronics,Laptop,3, $368.00 ," $1,104.00 ", $474.56 ,In-store, February 
+1287,2/24/2024,David Kim,Charlotte,Home,Vacuum,3, $149.00 , $447.00 , $174.86 ,Online, February 
+1288,3/6/2024,Sarah Lee,Charlotte,Clothing,Jeans,2, $59.00 , $118.00 , $40.67 ,Online, March 
+1289,6/15/2024,John Smith,Dallas,Electronics,Laptop,4, $64.00 , $256.00 , $74.98 ,Online, June 
+1290,1/19/2024,Liam Johnson,Raleigh,Clothing,Jeans,4, $209.00 , $836.00 , $279.00 ,In-store, January 
+1291,1/20/2024,David Kim,Atlanta,Clothing,Sneakers,5, $75.00 , $375.00 , $140.40 ,In-store, January 
+1292,6/7/2024,James Brown,Dallas,Clothing,Sneakers,5, $26.00 , $130.00 , $31.81 ,In-store, June 
+1293,3/8/2024,David Kim,Los Angeles,Clothing,T-Shirt,3, $369.00 ," $1,107.00 ", $396.98 ,Online, March 
+1294,3/1/2024,Sarah Lee,Atlanta,Clothing,Jacket,3, $229.00 , $687.00 , $209.07 ,In-store, March 
+1295,3/6/2024,Noah Martinez,Los Angeles,Home,Lamp,1, $410.00 , $410.00 , $111.43 ,Online, March 
+1296,5/6/2024,Sarah Lee,Los Angeles,Home,Vacuum,4, $251.00 ," $1,004.00 ", $207.17 ,In-store, May 
+1297,6/1/2024,Olivia Davis,Miami,Clothing,Jeans,2, $499.00 , $998.00 , $381.30 ,Online, June 
+1298,2/7/2024,Sarah Lee,Chicago,Clothing,Jacket,2, $243.00 , $486.00 , $172.98 ,Online, February 
+1299,5/25/2024,Olivia Davis,Chicago,Home,Lamp,1, $70.00 , $70.00 , $25.26 ,In-store, May 
+1300,4/28/2024,Noah Martinez,Los Angeles,Electronics,Headphones,1, $120.00 , $120.00 , $57.05 ,In-store, April 
+1301,2/3/2024,Liam Johnson,Miami,Electronics,Keyboard,4, $238.00 , $952.00 , $373.06 ,In-store, February 
+1302,6/25/2024,Sarah Lee,Charlotte,Home,Blender,4, $333.00 ," $1,332.00 ", $490.44 ,In-store, June 
+1303,5/18/2024,Maria Garcia,New York,Home,Lamp,2, $376.00 , $752.00 , $259.29 ,Online, May 
+1304,2/27/2024,Maria Garcia,Atlanta,Home,Lamp,1, $321.00 , $321.00 , $107.65 ,Online, February 
+1305,3/18/2024,James Brown,Miami,Clothing,Jeans,2, $191.00 , $382.00 , $100.49 ,Online, March 
+1306,2/17/2024,Noah Martinez,Raleigh,Clothing,T-Shirt,2, $63.00 , $126.00 , $32.78 ,In-store, February 
+1307,1/20/2024,Olivia Davis,Charlotte,Clothing,T-Shirt,3, $178.00 , $534.00 , $229.88 ,In-store, January 
+1308,4/11/2024,Liam Johnson,Charlotte,Home,Blender,1, $105.00 , $105.00 , $30.14 ,In-store, April 
+1309,3/18/2024,John Smith,Los Angeles,Clothing,Sneakers,3, $372.00 ," $1,116.00 ", $492.71 ,In-store, March 
+1310,6/2/2024,David Kim,Charlotte,Home,Lamp,3, $264.00 , $792.00 , $235.54 ,In-store, June 
+1311,5/14/2024,Emma Wilson,Miami,Electronics,Mouse,1, $285.00 , $285.00 , $131.66 ,In-store, May 
+1312,1/24/2024,John Smith,New York,Home,Toaster,4, $151.00 , $604.00 , $135.30 ,Online, January 
+1313,4/11/2024,Olivia Davis,Raleigh,Home,Vacuum,1, $316.00 , $316.00 , $144.66 ,Online, April 
+1314,5/20/2024,Ava Anderson,Atlanta,Electronics,Laptop,5, $427.00 ," $2,135.00 ", $570.01 ,Online, May 
+1315,4/23/2024,James Brown,Charlotte,Electronics,Keyboard,4, $291.00 ," $1,164.00 ", $474.35 ,In-store, April 
+1316,2/24/2024,Noah Martinez,Raleigh,Clothing,Jeans,5, $196.00 , $980.00 , $335.44 ,Online, February 
+1317,6/28/2024,Maria Garcia,Miami,Home,Blender,2, $199.00 , $398.00 , $150.73 ,In-store, June 
+1318,4/30/2024,Maria Garcia,Charlotte,Home,Blender,1, $108.00 , $108.00 , $31.43 ,Online, April 
+1319,6/13/2024,Sarah Lee,Los Angeles,Electronics,Headphones,2, $239.00 , $478.00 , $213.15 ,Online, June 
+1320,3/15/2024,Emma Wilson,Los Angeles,Clothing,Jacket,5, $464.00 ," $2,320.00 "," $1,003.95 ",Online, March 
+1321,3/14/2024,Noah Martinez,Atlanta,Electronics,Headphones,2, $479.00 , $958.00 , $403.38 ,Online, March 
+1322,6/10/2024,John Smith,Charlotte,Home,Toaster,3, $231.00 , $693.00 , $288.28 ,Online, June 
+1323,3/23/2024,Ava Anderson,Atlanta,Home,Vacuum,4, $293.00 ," $1,172.00 ", $571.91 ,In-store, March 
+1324,3/12/2024,Noah Martinez,Dallas,Clothing,Jeans,5, $259.00 ," $1,295.00 ", $291.92 ,In-store, March 
+1325,4/17/2024,Olivia Davis,Charlotte,Electronics,Monitor,3, $331.00 , $993.00 , $302.17 ,Online, April 
+1326,6/13/2024,Noah Martinez,Dallas,Clothing,Sneakers,4, $206.00 , $824.00 , $358.99 ,Online, June 
+1327,4/11/2024,Sarah Lee,Atlanta,Electronics,Headphones,2, $20.00 , $40.00 , $11.21 ,Online, April 
+1328,6/25/2024,James Brown,Dallas,Home,Toaster,3, $348.00 ," $1,044.00 ", $248.26 ,In-store, June 
+1329,1/20/2024,Sarah Lee,Dallas,Clothing,Jeans,2, $171.00 , $342.00 , $118.98 ,Online, January 
+1330,3/24/2024,Sarah Lee,Atlanta,Clothing,Jacket,4, $269.00 ," $1,076.00 ", $347.35 ,Online, March 
+1331,4/21/2024,Ava Anderson,Los Angeles,Clothing,Jeans,1, $342.00 , $342.00 , $167.28 ,Online, April 
+1332,5/10/2024,Noah Martinez,Dallas,Home,Toaster,2, $493.00 , $986.00 , $211.28 ,Online, May 
+1333,5/14/2024,Olivia Davis,Miami,Clothing,Sneakers,2, $498.00 , $996.00 , $453.54 ,In-store, May 
+1334,1/12/2024,Liam Johnson,Atlanta,Home,Lamp,1, $303.00 , $303.00 , $101.30 ,In-store, January 
+1335,6/15/2024,Emma Wilson,Charlotte,Home,Vacuum,1, $255.00 , $255.00 , $104.82 ,In-store, June 
+1336,2/1/2024,Ava Anderson,Miami,Electronics,Headphones,2, $197.00 , $394.00 , $142.46 ,In-store, February 
+1337,3/18/2024,James Brown,Charlotte,Home,Vacuum,4, $325.00 ," $1,300.00 ", $341.37 ,Online, March 
+1338,5/16/2024,Liam Johnson,Los Angeles,Electronics,Laptop,2, $331.00 , $662.00 , $294.28 ,Online, May 
+1339,4/21/2024,Ava Anderson,Miami,Electronics,Laptop,5, $398.00 ," $1,990.00 ", $695.14 ,Online, April 
+1340,3/27/2024,Sarah Lee,Raleigh,Electronics,Laptop,1, $412.00 , $412.00 , $200.57 ,Online, March 
+1341,4/12/2024,Maria Garcia,Charlotte,Home,Blender,4, $135.00 , $540.00 , $115.74 ,Online, April 
+1342,5/9/2024,Olivia Davis,Atlanta,Clothing,Jacket,3, $412.00 ," $1,236.00 ", $568.20 ,In-store, May 
+1343,1/10/2024,Emma Wilson,Raleigh,Home,Lamp,2, $426.00 , $852.00 , $292.03 ,In-store, January 
+1344,1/25/2024,Maria Garcia,Miami,Clothing,Jeans,3, $136.00 , $408.00 , $148.97 ,Online, January 
+1345,2/25/2024,Liam Johnson,New York,Electronics,Laptop,3, $317.00 , $951.00 , $397.51 ,In-store, February 
+1346,5/20/2024,Sarah Lee,Raleigh,Electronics,Monitor,3, $171.00 , $513.00 , $215.85 ,Online, May 
+1347,1/18/2024,James Brown,Dallas,Clothing,Jeans,3, $34.00 , $102.00 , $21.08 ,In-store, January 
+1348,4/8/2024,Noah Martinez,New York,Electronics,Headphones,4, $297.00 ," $1,188.00 ", $314.85 ,In-store, April 
+1349,1/4/2024,Olivia Davis,Los Angeles,Home,Toaster,1, $323.00 , $323.00 , $123.72 ,Online, January 
+1350,2/6/2024,David Kim,Dallas,Clothing,T-Shirt,1, $223.00 , $223.00 , $61.48 ,In-store, February 
+1351,4/8/2024,John Smith,Los Angeles,Clothing,T-Shirt,3, $262.00 , $786.00 , $195.60 ,Online, April 
+1352,2/14/2024,David Kim,Chicago,Clothing,Jeans,5, $410.00 ," $2,050.00 ", $976.01 ,In-store, February 
+1353,2/29/2024,James Brown,Raleigh,Clothing,T-Shirt,3, $403.00 ," $1,209.00 ", $267.73 ,Online, February 
+1354,1/25/2024,Olivia Davis,Chicago,Clothing,Sneakers,5, $145.00 , $725.00 , $217.78 ,Online, January 
+1355,6/1/2024,John Smith,Charlotte,Clothing,T-Shirt,4, $450.00 ," $1,800.00 ", $361.47 ,In-store, June 
+1356,5/27/2024,Noah Martinez,Atlanta,Electronics,Mouse,5, $71.00 , $355.00 , $121.10 ,Online, May 
+1357,6/2/2024,Olivia Davis,Miami,Clothing,Jacket,1, $228.00 , $228.00 , $73.17 ,Online, June 
+1358,6/24/2024,Liam Johnson,Chicago,Electronics,Keyboard,5, $139.00 , $695.00 , $333.65 ,In-store, June 
+1359,6/9/2024,Noah Martinez,Dallas,Home,Vacuum,2, $28.00 , $56.00 , $18.85 ,In-store, June 
+1360,2/17/2024,John Smith,New York,Clothing,Sneakers,3, $95.00 , $285.00 , $129.18 ,Online, February 
+1361,5/3/2024,Liam Johnson,Miami,Clothing,Jeans,4, $334.00 ," $1,336.00 ", $630.05 ,In-store, May 
+1362,2/19/2024,James Brown,Charlotte,Clothing,Sneakers,3, $139.00 , $417.00 , $187.06 ,Online, February 
+1363,1/9/2024,Emma Wilson,New York,Home,Toaster,2, $24.00 , $48.00 , $13.28 ,In-store, January 
+1364,2/4/2024,John Smith,Raleigh,Clothing,Sneakers,1, $371.00 , $371.00 , $138.58 ,In-store, February 
+1365,2/3/2024,Emma Wilson,Los Angeles,Electronics,Headphones,1, $410.00 , $410.00 , $106.30 ,In-store, February 
+1366,3/26/2024,Noah Martinez,Raleigh,Electronics,Mouse,5, $124.00 , $620.00 , $199.71 ,In-store, March 
+1367,1/31/2024,Liam Johnson,Dallas,Clothing,Jacket,4, $494.00 ," $1,976.00 ", $478.09 ,In-store, January 
+1368,2/13/2024,Ava Anderson,Los Angeles,Home,Blender,2, $405.00 , $810.00 , $365.26 ,In-store, February 
+1369,6/21/2024,Noah Martinez,Dallas,Home,Toaster,1, $493.00 , $493.00 , $194.18 ,Online, June 
+1370,5/25/2024,Sarah Lee,New York,Home,Vacuum,5, $100.00 , $500.00 , $237.71 ,Online, May 
+1371,1/22/2024,Emma Wilson,Raleigh,Clothing,Sneakers,1, $67.00 , $67.00 , $16.00 ,In-store, January 
+1372,2/21/2024,Sarah Lee,Charlotte,Home,Toaster,3, $408.00 ," $1,224.00 ", $520.61 ,In-store, February 
+1373,6/13/2024,Liam Johnson,New York,Electronics,Headphones,2, $70.00 , $140.00 , $61.95 ,Online, June 
+1374,1/15/2024,Liam Johnson,Raleigh,Home,Lamp,4, $282.00 ," $1,128.00 ", $365.56 ,Online, January 
+1375,4/23/2024,Noah Martinez,Raleigh,Home,Blender,2, $79.00 , $158.00 , $42.35 ,In-store, April 
+1376,3/2/2024,Noah Martinez,Raleigh,Home,Toaster,5, $356.00 ," $1,780.00 ", $586.12 ,In-store, March 
+1377,6/14/2024,David Kim,Dallas,Electronics,Mouse,3, $498.00 ," $1,494.00 ", $403.67 ,In-store, June 
+1378,3/31/2024,John Smith,Raleigh,Home,Lamp,3, $393.00 ," $1,179.00 ", $482.87 ,In-store, March 
+1379,4/5/2024,John Smith,Chicago,Electronics,Mouse,5, $394.00 ," $1,970.00 ", $478.19 ,In-store, April 
+1380,4/25/2024,Maria Garcia,Chicago,Home,Vacuum,1, $174.00 , $174.00 , $40.73 ,In-store, April 
+1381,5/10/2024,Olivia Davis,Chicago,Electronics,Mouse,2, $497.00 , $994.00 , $471.60 ,In-store, May 
+1382,2/12/2024,John Smith,Dallas,Home,Blender,3, $290.00 , $870.00 , $331.15 ,Online, February 
+1383,1/8/2024,Maria Garcia,Dallas,Clothing,Jacket,2, $326.00 , $652.00 , $311.61 ,In-store, January 
+1384,6/29/2024,David Kim,Los Angeles,Home,Vacuum,3, $171.00 , $513.00 , $229.45 ,In-store, June 
+1385,5/3/2024,Olivia Davis,Dallas,Clothing,Jacket,3, $377.00 ," $1,131.00 ", $425.52 ,In-store, May 
+1386,1/11/2024,David Kim,Atlanta,Clothing,Jeans,4, $64.00 , $256.00 , $87.88 ,In-store, January 
+1387,1/28/2024,Emma Wilson,Dallas,Electronics,Keyboard,2, $334.00 , $668.00 , $177.25 ,Online, January 
+1388,1/1/2024,Noah Martinez,Los Angeles,Clothing,Sneakers,5, $333.00 ," $1,665.00 ", $364.97 ,Online, January 
+1389,5/19/2024,Sarah Lee,Charlotte,Home,Vacuum,3, $65.00 , $195.00 , $51.46 ,Online, May 
+1390,3/10/2024,Emma Wilson,Chicago,Electronics,Laptop,4, $338.00 ," $1,352.00 ", $588.59 ,Online, March 
+1391,6/6/2024,Sarah Lee,Raleigh,Clothing,Sneakers,1, $189.00 , $189.00 , $50.42 ,In-store, June 
+1392,5/23/2024,David Kim,Chicago,Electronics,Laptop,1, $286.00 , $286.00 , $128.50 ,In-store, May 
+1393,3/23/2024,Sarah Lee,New York,Electronics,Headphones,5, $445.00 ," $2,225.00 ", $755.26 ,Online, March 
+1394,1/11/2024,Emma Wilson,Miami,Home,Blender,2, $47.00 , $94.00 , $44.54 ,In-store, January 
+1395,3/23/2024,Maria Garcia,Atlanta,Electronics,Mouse,5, $39.00 , $195.00 , $90.15 ,Online, March 
+1396,6/1/2024,John Smith,Chicago,Electronics,Headphones,3, $67.00 , $201.00 , $78.53 ,In-store, June 
+1397,4/26/2024,Emma Wilson,Chicago,Clothing,Jacket,5, $241.00 ," $1,205.00 ", $523.41 ,Online, April 
+1398,6/3/2024,David Kim,Dallas,Electronics,Keyboard,5, $243.00 ," $1,215.00 ", $346.69 ,Online, June 
+1399,6/1/2024,James Brown,Dallas,Home,Blender,1, $61.00 , $61.00 , $18.27 ,Online, June 
+1400,2/10/2024,David Kim,Dallas,Electronics,Monitor,5, $60.00 , $300.00 , $137.34 ,In-store, February 
+1401,4/22/2024,Liam Johnson,Raleigh,Home,Vacuum,5, $389.00 ," $1,945.00 ", $522.09 ,In-store, April 
+1402,3/24/2024,Liam Johnson,Charlotte,Home,Blender,4, $427.00 ," $1,708.00 ", $801.07 ,In-store, March 
+1403,5/3/2024,Noah Martinez,New York,Home,Lamp,3, $253.00 , $759.00 , $163.51 ,In-store, May 
+1404,4/8/2024,John Smith,New York,Electronics,Monitor,2, $131.00 , $262.00 , $105.27 ,Online, April 
+1405,6/2/2024,Sarah Lee,Chicago,Electronics,Keyboard,5, $178.00 , $890.00 , $197.53 ,Online, June 
+1406,1/22/2024,Emma Wilson,Raleigh,Home,Lamp,3, $492.00 ," $1,476.00 ", $359.11 ,In-store, January 
+1407,5/19/2024,Noah Martinez,Los Angeles,Clothing,Sneakers,1, $353.00 , $353.00 , $149.39 ,In-store, May 
+1408,2/5/2024,Olivia Davis,Charlotte,Home,Toaster,1, $472.00 , $472.00 , $135.98 ,Online, February 
+1409,3/21/2024,Olivia Davis,Dallas,Home,Lamp,4, $400.00 ," $1,600.00 ", $391.88 ,In-store, March 
+1410,1/21/2024,Olivia Davis,Atlanta,Electronics,Mouse,1, $279.00 , $279.00 , $95.35 ,Online, January 
+1411,5/9/2024,David Kim,Miami,Electronics,Monitor,1, $172.00 , $172.00 , $72.03 ,Online, May 
+1412,1/31/2024,Liam Johnson,Miami,Electronics,Monitor,2, $465.00 , $930.00 , $433.77 ,In-store, January 
+1413,3/30/2024,Emma Wilson,Los Angeles,Electronics,Keyboard,5, $426.00 ," $2,130.00 "," $1,061.06 ",Online, March 
+1414,2/27/2024,Noah Martinez,Charlotte,Home,Lamp,4, $349.00 ," $1,396.00 ", $535.99 ,In-store, February 
+1415,1/26/2024,Ava Anderson,Chicago,Clothing,Sneakers,5, $129.00 , $645.00 , $239.33 ,In-store, January 
+1416,3/5/2024,David Kim,Los Angeles,Electronics,Headphones,5, $51.00 , $255.00 , $104.25 ,In-store, March 
+1417,1/12/2024,Noah Martinez,Atlanta,Home,Vacuum,5, $368.00 ," $1,840.00 ", $779.50 ,Online, January 
+1418,1/28/2024,John Smith,Raleigh,Clothing,Sneakers,1, $35.00 , $35.00 , $10.27 ,Online, January 
+1419,6/29/2024,Liam Johnson,Atlanta,Home,Vacuum,3, $424.00 ," $1,272.00 ", $501.25 ,In-store, June 
+1420,5/24/2024,Olivia Davis,Atlanta,Electronics,Monitor,4, $124.00 , $496.00 , $243.85 ,Online, May 
+1421,4/3/2024,Maria Garcia,Charlotte,Clothing,Sneakers,4, $67.00 , $268.00 , $63.54 ,Online, April 
+1422,6/24/2024,John Smith,Atlanta,Clothing,Sneakers,2, $242.00 , $484.00 , $216.07 ,In-store, June 
+1423,3/12/2024,James Brown,Charlotte,Clothing,Jacket,2, $170.00 , $340.00 , $80.25 ,In-store, March 
+1424,2/5/2024,John Smith,Los Angeles,Electronics,Laptop,2, $56.00 , $112.00 , $26.04 ,Online, February 
+1425,6/23/2024,Maria Garcia,Chicago,Home,Vacuum,2, $186.00 , $372.00 , $165.18 ,Online, June 
+1426,1/14/2024,Noah Martinez,Miami,Home,Blender,5, $458.00 ," $2,290.00 ", $952.04 ,Online, January 
+1427,3/11/2024,John Smith,Atlanta,Electronics,Monitor,4, $42.00 , $168.00 , $34.54 ,In-store, March 
+1428,2/20/2024,Ava Anderson,Charlotte,Clothing,T-Shirt,3, $117.00 , $351.00 , $148.43 ,In-store, February 
+1429,2/16/2024,David Kim,Miami,Electronics,Keyboard,2, $437.00 , $874.00 , $179.13 ,Online, February 
+1430,1/14/2024,Ava Anderson,Dallas,Electronics,Monitor,3, $171.00 , $513.00 , $231.98 ,In-store, January 
+1431,2/12/2024,Maria Garcia,Miami,Clothing,Jeans,4, $90.00 , $360.00 , $78.83 ,Online, February 
+1432,6/6/2024,Noah Martinez,Los Angeles,Electronics,Keyboard,2, $313.00 , $626.00 , $309.62 ,Online, June 
+1433,4/27/2024,Noah Martinez,Miami,Clothing,T-Shirt,4, $190.00 , $760.00 , $345.16 ,In-store, April 
+1434,1/25/2024,Maria Garcia,Charlotte,Clothing,Sneakers,3, $287.00 , $861.00 , $422.19 ,In-store, January 
+1435,3/28/2024,David Kim,Dallas,Home,Blender,2, $85.00 , $170.00 , $55.11 ,In-store, March 
+1436,2/13/2024,Olivia Davis,Los Angeles,Electronics,Keyboard,4, $101.00 , $404.00 , $115.00 ,Online, February 
+1437,1/11/2024,Ava Anderson,Atlanta,Electronics,Monitor,5, $406.00 ," $2,030.00 ", $563.24 ,In-store, January 
+1438,3/7/2024,Liam Johnson,Atlanta,Electronics,Monitor,3, $64.00 , $192.00 , $39.80 ,Online, March 
+1439,2/8/2024,Emma Wilson,Charlotte,Electronics,Monitor,5, $155.00 , $775.00 , $344.58 ,Online, February 
+1440,5/23/2024,Liam Johnson,New York,Clothing,T-Shirt,2, $177.00 , $354.00 , $95.89 ,Online, May 
+1441,4/23/2024,Noah Martinez,Los Angeles,Home,Lamp,4, $415.00 ," $1,660.00 ", $828.72 ,In-store, April 
+1442,2/1/2024,Olivia Davis,Dallas,Home,Toaster,3, $407.00 ," $1,221.00 ", $585.33 ,In-store, February 
+1443,6/16/2024,John Smith,Charlotte,Home,Toaster,2, $499.00 , $998.00 , $347.79 ,In-store, June 
+1444,5/31/2024,James Brown,Dallas,Electronics,Keyboard,2, $150.00 , $300.00 , $144.45 ,Online, May 
+1445,3/24/2024,Ava Anderson,Charlotte,Clothing,Jacket,4, $253.00 ," $1,012.00 ", $417.40 ,Online, March 
+1446,5/11/2024,Olivia Davis,Miami,Electronics,Keyboard,1, $485.00 , $485.00 , $197.74 ,In-store, May 
+1447,3/23/2024,James Brown,Chicago,Electronics,Keyboard,4, $336.00 ," $1,344.00 ", $503.08 ,In-store, March 
+1448,6/7/2024,James Brown,New York,Clothing,T-Shirt,4, $301.00 ," $1,204.00 ", $394.38 ,In-store, June 
+1449,1/20/2024,Ava Anderson,Atlanta,Home,Toaster,3, $328.00 , $984.00 , $378.68 ,Online, January 
+1450,4/17/2024,Olivia Davis,Chicago,Electronics,Laptop,2, $20.00 , $40.00 , $16.04 ,In-store, April 
+1451,4/16/2024,James Brown,Charlotte,Clothing,Jacket,4, $371.00 ," $1,484.00 ", $598.70 ,Online, April 
+1452,1/5/2024,Noah Martinez,Miami,Clothing,Sneakers,5, $222.00 ," $1,110.00 ", $393.37 ,In-store, January 
+1453,3/17/2024,Ava Anderson,Charlotte,Home,Vacuum,2, $493.00 , $986.00 , $363.24 ,In-store, March 
+1454,5/3/2024,Ava Anderson,Chicago,Clothing,Jeans,4, $259.00 ," $1,036.00 ", $396.31 ,In-store, May 
+1455,1/28/2024,James Brown,Dallas,Electronics,Monitor,2, $345.00 , $690.00 , $251.86 ,In-store, January 
+1456,2/3/2024,James Brown,Los Angeles,Clothing,Jeans,1, $123.00 , $123.00 , $37.79 ,In-store, February 
+1457,4/15/2024,Emma Wilson,Dallas,Clothing,Jacket,1, $445.00 , $445.00 , $187.85 ,Online, April 
+1458,3/8/2024,Liam Johnson,Miami,Home,Toaster,1, $213.00 , $213.00 , $88.82 ,In-store, March 
+1459,5/3/2024,Ava Anderson,Los Angeles,Home,Vacuum,3, $496.00 ," $1,488.00 ", $530.62 ,In-store, May 
+1460,6/12/2024,Emma Wilson,Los Angeles,Electronics,Keyboard,3, $237.00 , $711.00 , $267.83 ,Online, June 
+1461,4/21/2024,John Smith,Raleigh,Home,Blender,2, $84.00 , $168.00 , $77.57 ,Online, April 
+1462,3/13/2024,Noah Martinez,New York,Home,Blender,3, $332.00 , $996.00 , $282.19 ,In-store, March 
+1463,3/17/2024,Noah Martinez,Atlanta,Electronics,Keyboard,5, $476.00 ," $2,380.00 "," $1,018.03 ",Online, March 
+1464,4/25/2024,Liam Johnson,Miami,Electronics,Keyboard,5, $38.00 , $190.00 , $71.11 ,Online, April 
+1465,4/5/2024,Olivia Davis,Miami,Electronics,Laptop,2, $181.00 , $362.00 , $89.90 ,In-store, April 
+1466,2/14/2024,David Kim,Dallas,Home,Blender,1, $112.00 , $112.00 , $53.12 ,In-store, February 
+1467,6/10/2024,James Brown,Chicago,Electronics,Mouse,2, $74.00 , $148.00 , $39.99 ,Online, June 
+1468,2/24/2024,John Smith,Atlanta,Electronics,Headphones,1, $329.00 , $329.00 , $66.69 ,Online, February 
+1469,5/6/2024,James Brown,Miami,Home,Vacuum,3, $153.00 , $459.00 , $185.18 ,In-store, May 
+1470,4/1/2024,James Brown,Atlanta,Electronics,Monitor,3, $258.00 , $774.00 , $250.99 ,In-store, April 
+1471,6/5/2024,Olivia Davis,Charlotte,Clothing,T-Shirt,5, $468.00 ," $2,340.00 ", $771.55 ,Online, June 
+1472,6/27/2024,Sarah Lee,Charlotte,Clothing,Sneakers,3, $216.00 , $648.00 , $233.59 ,In-store, June 
+1473,5/29/2024,Maria Garcia,Charlotte,Electronics,Keyboard,5, $299.00 ," $1,495.00 ", $717.96 ,In-store, May 
+1474,6/15/2024,Olivia Davis,Charlotte,Home,Toaster,5, $459.00 ," $2,295.00 ", $497.27 ,Online, June 
+1475,2/9/2024,Olivia Davis,Atlanta,Clothing,Jacket,2, $420.00 , $840.00 , $316.30 ,In-store, February 
+1476,2/10/2024,Ava Anderson,Los Angeles,Electronics,Laptop,1, $398.00 , $398.00 , $132.43 ,Online, February 
+1477,3/22/2024,Noah Martinez,Atlanta,Home,Toaster,2, $67.00 , $134.00 , $48.53 ,Online, March 
+1478,1/22/2024,Emma Wilson,Los Angeles,Electronics,Mouse,3, $483.00 ," $1,449.00 ", $540.82 ,Online, January 
+1479,1/5/2024,Olivia Davis,Dallas,Electronics,Keyboard,5, $259.00 ," $1,295.00 ", $569.02 ,Online, January 
+1480,2/1/2024,Maria Garcia,Miami,Clothing,Jeans,5, $475.00 ," $2,375.00 ", $942.12 ,Online, February 
+1481,4/15/2024,James Brown,Dallas,Home,Blender,3, $494.00 ," $1,482.00 ", $565.18 ,Online, April 
+1482,4/24/2024,Maria Garcia,New York,Home,Toaster,5, $297.00 ," $1,485.00 ", $552.07 ,In-store, April 
+1483,2/12/2024,Noah Martinez,Atlanta,Home,Blender,5, $218.00 ," $1,090.00 ", $275.62 ,Online, February 
+1484,3/22/2024,Ava Anderson,Dallas,Electronics,Keyboard,4, $98.00 , $392.00 , $136.76 ,Online, March 
+1485,5/6/2024,Noah Martinez,New York,Electronics,Laptop,5, $298.00 ," $1,490.00 ", $525.20 ,In-store, May 
+1486,6/13/2024,John Smith,Chicago,Home,Toaster,5, $217.00 ," $1,085.00 ", $444.14 ,In-store, June 
+1487,5/26/2024,Ava Anderson,Charlotte,Electronics,Keyboard,1, $142.00 , $142.00 , $65.99 ,In-store, May 
+1488,1/31/2024,Ava Anderson,Atlanta,Home,Toaster,5, $464.00 ," $2,320.00 ", $560.53 ,Online, January 
+1489,2/14/2024,Liam Johnson,New York,Electronics,Laptop,5, $114.00 , $570.00 , $212.64 ,In-store, February 
+1490,4/14/2024,David Kim,Atlanta,Home,Lamp,4, $227.00 , $908.00 , $444.47 ,Online, April 
+1491,6/10/2024,Noah Martinez,Chicago,Home,Lamp,3, $180.00 , $540.00 , $112.34 ,Online, June 
+1492,5/13/2024,James Brown,New York,Clothing,Jacket,1, $216.00 , $216.00 , $52.08 ,Online, May 
+1493,3/15/2024,James Brown,Atlanta,Home,Lamp,1, $88.00 , $88.00 , $34.05 ,Online, March 
+1494,2/26/2024,Emma Wilson,Chicago,Home,Lamp,3, $178.00 , $534.00 , $195.56 ,In-store, February 
+1495,3/24/2024,Emma Wilson,Dallas,Home,Lamp,5, $481.00 ," $2,405.00 ", $505.16 ,Online, March 
+1496,4/3/2024,Maria Garcia,New York,Clothing,Jacket,5, $319.00 ," $1,595.00 ", $551.30 ,Online, April 
+1497,2/22/2024,Olivia Davis,Chicago,Clothing,T-Shirt,1, $458.00 , $458.00 , $191.21 ,Online, February 
+1498,5/30/2024,Emma Wilson,Raleigh,Clothing,T-Shirt,2, $294.00 , $588.00 , $210.46 ,In-store, May 
+1499,6/10/2024,Noah Martinez,Miami,Clothing,T-Shirt,2, $180.00 , $360.00 , $129.05 ,In-store, June 
+1500,1/9/2024,Noah Martinez,Miami,Home,Lamp,1, $84.00 , $84.00 , $30.00 ,Online, January 
